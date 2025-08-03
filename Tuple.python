@@ -1,0 +1,5 @@
+Tuple1=(1,2,"Hello",3.14,"world")
+print(Tuple1)
+print(Tuple1 [3])//Accessing Tuple Item
+Tuple2=(5,"Six")
+print(Tuple1+Tuple2)
